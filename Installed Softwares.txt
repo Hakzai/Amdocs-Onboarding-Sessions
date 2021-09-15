@@ -1,0 +1,37 @@
+Anaconda 3
+Apache Netbeans 12
+Apache Tomcat 9.0
+Browser for SQL Server 2019
+Docker Desktop
+Eclipse IDE 2018-03
+Git Version (bash)
+Git Desktop
+Hyper-V
+IIS 10.0 Express
+Intellij IDEA CE
+Java 8
+Java 11
+Jenkins 2.222.3
+Microsoft .NET 5.0.203
+Microsoft Azure
+Microsoft ODBC Driver 17
+Microsoft SQL Server
+Microsoft Visual Studio Code
+MongoDB 4.4.6 2008R2Plus
+MySQL Connector C++ 8.0
+MySQL Connector/ODBC 8.0
+MySQL Workbench 8.0 CE
+Node.js
+Notepad++
+PHP Storm 2021.1.2
+Postman 7.25.0
+Puppet
+Putty
+PyCharm CE 2020.2.3
+Python 3.7.8
+Python 3.9.0
+Spring Tool Suite 4 (STS4)
+SQL Developer
+VMware Tools
+WinSCP 5.17.10
+XAMPP
